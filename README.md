@@ -1,2 +1,4 @@
 ## Launch X
-Verificación de commits
+
+**Autor**: Francisco Javier
+**Fecha**: 5 de febrero
